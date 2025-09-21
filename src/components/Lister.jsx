@@ -174,7 +174,7 @@ setcount(counter);
             className="text-sky-600 "
             to="https://github.com/sudhanshurai2004"
           >
-            &nbsp; Github \ Dct-tcd{" "}
+            &nbsp; Github{" "}
           </Link>
         </div>
       </div>
